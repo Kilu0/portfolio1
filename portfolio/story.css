@@ -1,0 +1,126 @@
+.likbir{
+
+    padding: 21px;
+    background-color: bisque;
+    margin-left: 25%;
+
+    background: url(mob-psycho-background-9.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: 100% 100%;
+}
+aside{
+    display: block;
+    background: linear-gradient(326deg, #dede94, #8e2476, #02000c);
+    position: fixed;
+    width: 25%;
+    padding-top: 25px;
+    height: 100%;
+}
+aside img{
+
+    border-radius: 50%;
+    width: 100%;
+}
+.divImage{
+    width: 60%;
+}
+
+.divImage h4{
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 40px !important;
+    padding-top: 19px;
+    color: white;
+}
+.divImage h5{
+
+text-align: center;
+font-family: 'Source Sans Pro', sans-serif;
+color: white;
+}
+.divImage h6{
+
+text-align: center;
+color: white;
+font-family: 'Source Sans Pro', sans-serif;
+
+}
+.mostatil{
+border-bottom:  solid 1px grey ;  
+margin-left: 70px;
+width: 90%;
+padding-bottom: 40px;
+
+
+}
+.moraba3{
+    border-right:  solid 1px grey ;
+    margin-left: 50px;
+width: 10%;
+}
+.maintitle{
+
+    line-height: 1;
+    margin-bottom: 15px;
+    color: #555;
+    margin-left: 35px;
+    margin-top: 21px;
+
+}
+.p1{
+    margin-left: 38px;
+    color: white;
+    font-weight: 500;
+
+
+}
+.moraba3 h6::after{
+    content: " ";
+    position: relative;
+    top: -16px;
+    right: -67px;
+    display: block;
+    width: 7px;
+    height: 7px;
+    background-color: rgba(187,30,30,.8);
+}
+.moraba3 h6{
+    margin-left: 14px;
+    padding-bottom: 0px;
+    margin-top: -9px;
+    font-style: italic;
+    line-height: 30px;
+    color: white;
+    background-color: #9e868694;
+    text-align: center;
+    border-radius: 80px;
+    line-height: 1.5;
+    margin-right: 10px;
+
+}
+.mostatil p{
+
+color: white;
+font-size: 20px;
+font-weight: 500;
+
+}
+.sebsi  a img{
+width: 100%;
+
+}
+.sebsi h4{
+
+    color: white;
+    font-weight: 500;
+    
+    background-color: #9e868694;
+    border-radius: 80px;
+    
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
